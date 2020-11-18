@@ -6,6 +6,7 @@ This repository contains information pertaining to the list of projects accompli
 1. [Electricity theft detection](https://github.com/sannidhan/Projects-accomplished-/blob/main/README.md#electricity-theft-detection)
 2. [Sketch-to-photo genearation using GAN](https://github.com/sannidhan/Projects-accomplished-/blob/main/README.md#Sketch-to-photo-generation-using-GAN)
 3. [Assessment of Image Enhancement Techniques for Photo Sketch Matching](https://github.com/sannidhan/Projects-accomplished-/blob/main/README.md#Assessment-of-Image-Enhancement-Techniques-for-Photo-Sketch-Matching)
+4. [A Rapid Automated Process for Organizing Bacterial Cluster Segments Using Deep Neural Networks](https://github.com/sannidhan/Projects-accomplished-/blob/main/README.md#A-Rapid-Automated-Process-for-Organizing-Bacterial-Cluster-Segments-Using-Deep-Neural-Networks)
 
 Electricity theft detection
 -------------------------------------
@@ -52,4 +53,19 @@ Assessment of Image Enhancement Techniques for Photo Sketch Matching
 **Conclusion and Future Scope** - In forensic science, during the composite sketch and photo matching process efficient procedure is to be followed to improve the detection accuracy. The proposed research work aims to compare various enhancement procedures, that can be implemented to pre-process the test pictures to improve the detection accuracy. In this paper, most common pre-processing procedures, such as adapthisteq, histeq, imadjust and unsharp-masking are adopted to enhance the sketch as well as the original photo. During the examination, the public face datasets, such as CUHK and PRIP-HDC are considered for the analysis. All the implementations is accomplished through the standard Matlab tool. The experimental work of this investigation upholds that for both the datasets, the unsharp-masking produces improved detection rate in comparison to the substitute methods.  
 
 **Paper Link** - https://ieeexplore.ieee.org/abstract/document/9007980
+
+A Rapid Automated Process for Organizing Bacterial Cluster Segments Using Deep Neural Networks
+-------------------------------------
+**Features of the application** - The acknowledgement of the bacterial species is essential since the organic information on microorganisms is critical in medication, veterinary science, organic chemistry, nourishment industry or cultivation. A large portion of the organisms have a positive effect on everyday issues; they can be an explanation of numerous illnesses. Along these lines, automating the procedure of acknowledgement can discover application in restorative counteractive action and treatment sciences. One of the most significant highlights that can be perceived in the pictures is the state of a microscopic organisms cell. In this research article, the indispensable shapes like round and hollow, circular and winding are categorized using deep learning approach. Nevertheless, the procedure of perceiving microbes is dependent on the shape would be a troublesome one because numerous bacteria share primarily the same forms. Secondly, the most separating highlight is the shape and the size of the microscopic organisms. Overall if it was not an automated approach, then it is difficult to classify the bacterial colonies. Experimental outcomes of the proposed methodology are carried out using three different models, namely VGG. Mobile Net and Inception out of which VGG has shown remarkable progress of 99%.
+
+**Technologies Used**
+1. CNN
+2. Image Processing and Conversion
+3. Transfer Learning
+
+**Conclusion and Future Scope** - Bacteria and their species have been in this earth for millions of years. They will also continue living for another million years to come. Humans have found the applications of bacteria very recently and learned to classify them. Unfortunately, the classification methodologies are too primitive and consume too much time and effort. We have proposed an innovative effort to classify species of bacteria using deep learning and compared our results with three standard models of deep learning. It was found out that SVGG proved to be the best model for genera classification. We can further improvise our work by developing a feedback system which can further allow identifying newer species of bacteria by using reinforcement learning. Our idea also can be further used to identify viruses and other single-celled organisms.
+
+**Paper Link** - https://ieeexplore.ieee.org/abstract/document/9214173
+
+
 
