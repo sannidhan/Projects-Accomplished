@@ -43,4 +43,13 @@ One of the most significant and widely used methods for identifying a culprit in
 
 Assessment of Image Enhancement Techniques for Photo Sketch Matching
 -------------------------------------
+**Features of the application** - Image supported examination procedures are widely considered in the variety of fields. Typically, the image examination involves in the extracting the region of interest or features for the further investigation. In human detection system and also in criminal science, identification of the correct person is essential for the authentication requirements. In these applications, usually, the sketch drawn by an expert or a computer is matched against the digital photographs available in the criminal or the public database. During this examination, essential facial features are extracted from the sketch and digital photography is compared to identify the percentage of fit. The proposed work in this paper aims to examine the existing image enhancement and identification procedures existing in the literature. After creating the essential sketch for a person, a comparative analysis against the digital photo (Gray / RGB scale) of the person is performed, and the image similarity measures, such as PSNR, MSE, and SSIM are computed. In this paper, the benchmark datasets, like CUHK and PRIP-HDC are considered for the examination, and the empirical trial is achieved with the help of Matlab software.
+
+**Technologies Used**
+1. MATLAB
+2. Image Processing
+
+**Conclusion and Future Scope** - In forensic science, during the composite sketch and photo matching process efficient procedure is to be followed to improve the detection accuracy. The proposed research work aims to compare various enhancement procedures, that can be implemented to pre-process the test pictures to improve the detection accuracy. In this paper, most common pre-processing procedures, such as adapthisteq, histeq, imadjust and unsharp-masking are adopted to enhance the sketch as well as the original photo. During the examination, the public face datasets, such as CUHK and PRIP-HDC are considered for the analysis. All the implementations is accomplished through the standard Matlab tool. The experimental work of this investigation upholds that for both the datasets, the unsharp-masking produces improved detection rate in comparison to the substitute methods.  
+
+**Paper Link** - https://ieeexplore.ieee.org/abstract/document/9007980
 
