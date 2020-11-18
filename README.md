@@ -22,3 +22,22 @@ Electricity theft detection
 
 Sketch-to-photo generation using GAN
 --------------------------------------
+**Features of the application** - 
+1. Generated photo from a sketch, using a combination of CNN and cGAN.
+2. Implemented a dual application of deep learning to generate sketches and photos.
+3. Quality of sketch is an important factor in generating a photo of better quality.
+4. Sketches generated through CNN attained more similarity index value.
+
+One of the most significant and widely used methods for identifying a culprit in the field of forensic science is generating a sketch of the suspect from descriptions given by an eyewitness to the crime. However, there is a high level of uncertainty in recognizing an individual solely from a sketch. Recognition of sketches based on photos of an individual is non-trivial, as there are differences between the domain features of a sketch and a photo. To streamline this process, this article presents a methodology for generating a colored photo from a sketch, which can then be used for identification using a variety of classification techniques. Implementation of the proposed method involves a trained Convolution Neural Network for sketch generation paired with a conditional Generative Adversarial Network's pix2pix model for color photo generation. Experimental results of the work are validated using standard datasets, and the proposed model achieved a minimum average rate of 65% similarity index value on all employed datasets with a training efficiency of more than 98% in every epoch level.
+
+**Technologies Used**
+1. Pyhton
+2. Keras
+3. Generative Adversarial Networks (GAN)
+4. Convolutional Neural Networks (CNN)
+
+**Conclusion and Future Scope** - In this study, we attained our original objective of generating a colored photo image from a sketch input, using a combination of the CNN and cGAN pix2pix models. Significantly, this technique improves the accuracy of generated sketches and color photos. Through this we have further validated the dual application of deep learning to generate both sketches and photo images. Comparing the maximum average rate of similarity index value of 65% vs 61.5%. This confirms that sketches generated through CNN plays an important role in generating photos of better quality. This depicts the accuracy and loss percentage of training cGAN for up to 400 epochs, and the achieved results confirm that we have achieved a minimum accuracy of 97.85% and a maximum loss of 2.15% for 400 epochs on all the trained datasets. Our work was implemented and evaluated in Python, and open source programming language. One potential drawback of the proposal is that training of viewed sketches requires the application of image pre-processors.
+
+**Paper Link** - https://www.sciencedirect.com/science/article/pii/S0167865519302831
+
+
