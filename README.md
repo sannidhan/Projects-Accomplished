@@ -4,8 +4,12 @@ This repository contains information pertaining to the list of projects accompli
 
 # List Of Projects 
 1. [Electricity theft detection using IoT](https://github.com/sannidhan/Projects-accomplished-/blob/main/README.md#electricity-theft-detection)
-2. [Sketch-to-photo genearation using GAN](#paper2)
+2. [Sketch-to-photo genearation using GAN](https://github.com/sannidhan/Projects-accomplished-/blob/main/README.md#Sketch-to-photo-generation-using-GAN)
 
 Electricity theft detection using IoT
------------------------------
+-------------------------------------
 sdkjdw
+
+
+Sketch-to-photo generation using GAN
+--------------------------------------
