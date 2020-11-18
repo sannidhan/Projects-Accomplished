@@ -1,4 +1,5 @@
-# Projects-accomplished-
+# Projects Accomplished
+--------------------------
 This repository contains information pertaining to the list of projects accomplished. These projects are basically research projects carried out by me and my team of students and faculties covering the domains like Deep Learning, Internet Of Things, Information Security, Image Processing.
 
 
