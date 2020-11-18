@@ -7,6 +7,7 @@ This repository contains information pertaining to the list of projects accompli
 2. [Sketch-to-photo genearation using GAN](https://github.com/sannidhan/Projects-accomplished-/blob/main/README.md#Sketch-to-photo-generation-using-GAN)
 3. [Assessment of Image Enhancement Techniques for Photo Sketch Matching](https://github.com/sannidhan/Projects-accomplished-/blob/main/README.md#Assessment-of-Image-Enhancement-Techniques-for-Photo-Sketch-Matching)
 4. [A Rapid Automated Process for Organizing Bacterial Cluster Segments Using Deep Neural Networks](https://github.com/sannidhan/Projects-accomplished-/blob/main/README.md#A-Rapid-Automated-Process-for-Organizing-Bacterial-Cluster-Segments-Using-Deep-Neural-Networks)
+5. [A Novel Key Generation Approach Based on Facial Image Features for Stream Cipher System](https://github.com/sannidhan/Projects-accomplished-/blob/main/README.md#A-Novel-Key-Generation-Approach-Based-on-Facial-Image-Features-for-Stream-Cipher-System)
 
 Electricity theft detection
 -------------------------------------
@@ -67,5 +68,18 @@ A Rapid Automated Process for Organizing Bacterial Cluster Segments Using Deep N
 
 **Paper Link** - https://ieeexplore.ieee.org/abstract/document/9214173
 
+A Novel Key Generation Approach Based on Facial Image Features for Stream Cipher System
+-------------------------------------
+**Features of the application** - Security preservation is considered as one of the major concerns of our day to day routine in this digital world for any online transactions. Time to time, we have been witnessing an enormous amount of security threats and stealing of various kind of digital information over the online network. In this regard, lots of cryptographic algorithms based on secret key generation techniques have been implemented to boost up the security aspect of network systems that preserve the confidentiality of digital information. Despite this, intelligent intruders are still able to crack the key generation technique, thus stealing the data. In this research article, we propose an innovative approach for generating a pseudo-pseudo-random key sequence that serves as a base for the encryption/decryption process. We carry out the key generation process by extracting the essential features from a facial image and based on the extracted features; we generate a pseudo-random key sequence that acts as a primary entity for the efficient encryption/decryption process. Experimental findings related to the pseudo-random key is validated through chi-Square, Runs Up-down and period of subsequences test. Outcomes of these have subsequently passed in achieving an ideal key.
+
+**Technologies Used**
+1. Java 
+2. HTML and CSS
+3. JavaScript
+4. MATLAB
+
+**Conclusion and Future Scope** - In this research article, we have successfully implemented the process of encryption and decryption using the pseudo-random key generation technique. We were successful in achieving a novel procedure for pseudo-random key generation using the features extracted from the facial image through SURF algorithm. Experimental results of the Chi- Square test and Runs Up-down test confirms the strength of the key generated through LFSR in terms of the randomness factor. Graphical representation in Fig. 9 proves that the generated pseudo-random key has a higher value of non- repeating subsequence in most of the cases, which are several times larger than the fetched seed value into LFSR. From this, it is proved to generate a very long pseudo- random key sequence. In future, the work can be enhanced to increase the strength of the random key by considering only selected facial features to achieve more randomness. The current research that applied a single feature extraction technique can be extended by using multiple feature extractors which possibly strengthens the length and randomness of the generated key. The proposed system can also be carried forward to encrypt various other types of information, including stenographic applications.
+
+**Paper Link** - https://ieeexplore.ieee.org/abstract/document/9214095
 
 
