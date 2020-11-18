@@ -5,6 +5,7 @@ This repository contains information pertaining to the list of projects accompli
 # List Of Projects 
 1. [Electricity theft detection](https://github.com/sannidhan/Projects-accomplished-/blob/main/README.md#electricity-theft-detection)
 2. [Sketch-to-photo genearation using GAN](https://github.com/sannidhan/Projects-accomplished-/blob/main/README.md#Sketch-to-photo-generation-using-GAN)
+3. [Assessment of Image Enhancement Techniques for Photo Sketch Matching](https://github.com/sannidhan/Projects-accomplished-/blob/main/README.md#Assessment-of-Image-Enhancement-Techniques-for-Photo-Sketch-Matching)
 
 Electricity theft detection
 -------------------------------------
@@ -40,4 +41,6 @@ One of the most significant and widely used methods for identifying a culprit in
 
 **Paper Link** - https://www.sciencedirect.com/science/article/pii/S0167865519302831
 
+Assessment of Image Enhancement Techniques for Photo Sketch Matching
+-------------------------------------
 
