@@ -8,7 +8,7 @@ This repository contains information pertaining to the list of projects accompli
 
 Electricity theft detection using IoT
 -------------------------------------
-sdkjdw
+**Features of the application** 
 
 
 Sketch-to-photo generation using GAN
